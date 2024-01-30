@@ -45,11 +45,11 @@ const App = () => {
   // Define your styles
   const styles = StyleSheet.create({
     container: {
-      flex: 1, // Takes up the whole screen
+      flex: 1, 
       justifyContent: 'center', // Centers children vertically in the container
       alignItems: 'center', // Centers children horizontally in the container
       backgroundColor: '#F5FCFF', // Light blue background color
-      padding: 20, // Adds some padding around the container
+      padding: 20, 
     },
   });
   
